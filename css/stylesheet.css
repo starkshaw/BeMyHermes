@@ -15,6 +15,11 @@
   background: rgb(0,176,230) !important;
 }
 
+section#contact .form-control:focus {
+  border-color: rgb(0,176,230) !important;
+  box-shadow: none;
+}
+
 /* The style of head menu */
 .header {
     font-size: 18px !important;
@@ -35,6 +40,11 @@
 .btn-xl {
     background-color: rgb(0,176,230) !important;
     border-color: rgb(0,176,230) !important;
+}
+
+/* Style for dropdown */
+#fieldgvuy {
+    height: 61px;
 }
 
 /* Footer content color */
