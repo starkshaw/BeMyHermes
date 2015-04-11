@@ -1,6 +1,11 @@
 /* Custom Style Sheet */
 /* Author:  Zhenbang Xiao */
 
+/* The style of head menu */
+.header {
+
+}
+
 /* The style of title*/
 .intro-lead-in {
     font-family: 'Luckiest Guy', cursive !important;
