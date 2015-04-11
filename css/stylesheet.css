@@ -41,7 +41,7 @@ section#contact .form-control:focus {
 /* The style of title*/
 .intro-lead-in {
     font-family: 'Contrail One', cursive !important;
-    /*font-size: 60px !important;*/
+    font-size: 50px !important;
 }
 
 /* The style of slogan */
