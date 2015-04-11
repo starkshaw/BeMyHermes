@@ -19,6 +19,12 @@
     color: rgb(0,176,230) !important;
 }
 
+/* The style of menu button */
+.navbar-default .navbar-toggle {
+  border-color: rgb(0,176,230) !important;
+  background-color: rgb(0,176,230) !important;
+}
+
 /* The color of selection */
 ::selection {
   background: rgb(0,176,230) !important;
