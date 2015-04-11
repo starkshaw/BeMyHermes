@@ -10,7 +10,8 @@
 
 /* The style of title on header */
 #title-on-header {
-    font-family: 'Luckiest Guy', cursive !important;
+    font-family: 'Contrail One', cursive !important;
+    color: white !important;
 }
 
 /* The color of title on head menu */
@@ -39,13 +40,13 @@ section#contact .form-control:focus {
 
 /* The style of title*/
 .intro-lead-in {
-    font-family: 'Luckiest Guy', cursive !important;
-    font-size: 60px !important;
+    font-family: 'Contrail One', cursive !important;
+    /*font-size: 60px !important;*/
 }
 
 /* The style of slogan */
 .intro-heading {
-    font-size: 60px !important;
+    font-size: 55px !important;
 }
 
 /* Button color */
