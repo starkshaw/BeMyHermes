@@ -60,6 +60,11 @@ section#contact .form-control:focus {
     height: 61px;
 }
 
+/* The style of contect */
+#team {
+    padding-bottom: 130px !important;
+}
+
 /* Footer content color */
 .footer-link {
   color: rgb(0,176,230) !important;
