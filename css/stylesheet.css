@@ -16,3 +16,9 @@
 .intro-heading {
     font-size: 63px !important;
 }
+
+/* Button color */
+.btn-xl {
+    background-color: rgb(0,176,230);
+    border-color: rgb(0,176,230);
+}
