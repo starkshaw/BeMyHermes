@@ -1,0 +1,13 @@
+/* Custom Style Sheet */
+/* Author:  Zhenbang Xiao */
+
+/* The style of title*/
+.intro-lead-in {
+    font-family: 'Luckiest Guy', cursive !important;
+    font-size: 70px !important;
+}
+
+/* The style of slogan */
+.intro-heading {
+    font-size: 63px !important;
+}
