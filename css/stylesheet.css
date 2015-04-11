@@ -19,6 +19,6 @@
 
 /* Button color */
 .btn-xl {
-    background-color: rgb(0,176,230);
-    border-color: rgb(0,176,230);
+    background-color: rgb(0,176,230) !important;
+    border-color: rgb(0,176,230) !important;
 }
