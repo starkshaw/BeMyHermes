@@ -39,9 +39,11 @@ section#contact .form-control:focus {
 }
 
 /* The style of title*/
-.intro-lead-in {
+#title-in-header {
     font-family: 'Contrail One', cursive !important;
     font-size: 50px !important;
+    padding-bottom: 20px;
+    margin-bottom: 0;
 }
 
 /* The style of slogan */
