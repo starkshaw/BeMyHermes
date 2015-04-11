@@ -3,13 +3,13 @@
 
 /* The style of head menu */
 .header {
-
+    font-size: 18px !important;
 }
 
 /* The style of title*/
 .intro-lead-in {
     font-family: 'Luckiest Guy', cursive !important;
-    font-size: 70px !important;
+    font-size: 65px !important;
 }
 
 /* The style of slogan */
