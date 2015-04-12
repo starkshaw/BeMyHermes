@@ -70,7 +70,12 @@ section#contact .form-control:focus {
 
 /* The style of contect */
 #team {
-    padding-bottom: 130px !important;
+    padding-bottom: 50px !important;
+}
+
+/* Special style for contact introduction */
+.contact-special {
+    color: white;
 }
 
 /* Footer content color */
