@@ -78,6 +78,11 @@ section#contact .form-control:focus {
     color: white;
 }
 
+/* Style for Sponsor's logos */
+.sponsor-logos {
+    height: 70px !important;
+}
+
 /* Footer content color */
 .footer-link {
   color: rgb(0,176,230) !important;
